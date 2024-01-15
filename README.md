@@ -13,6 +13,7 @@ traning and validation performance graphs of accuracy and loss per epoch of data
 ![image](https://github.com/MariaMushtaq-12/CNN-with-augumented-data-comparision/assets/117312073/4384897e-9fc3-4be1-8bea-8dbd79c0f414)
 
 images prediction:
+
 ![image](https://github.com/MariaMushtaq-12/CNN-with-augumented-data-comparision/assets/117312073/ec17cce8-e2b6-47a4-b074-e0ba37d40389)
 
 confusion matrix:
@@ -22,6 +23,7 @@ classification report:
 ![image](https://github.com/MariaMushtaq-12/CNN-with-augumented-data-comparision/assets/117312073/f00ce7ae-829c-438b-b92e-191b7cf91f72)
 
 accuracy of augumented dataset:
+
 ![image](https://github.com/MariaMushtaq-12/CNN-with-augumented-data-comparision/assets/117312073/2c6043dc-8c4e-40b7-a66c-36e92abe848d)
 
 traning and validation performance graphs of accuracy and loss per epoch of augumented dataset
